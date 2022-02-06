@@ -1,0 +1,3 @@
+create table prueba(
+prueba  varchar2(30
+);
